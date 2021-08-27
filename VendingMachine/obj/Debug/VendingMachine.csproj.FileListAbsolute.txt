@@ -1,0 +1,1 @@
+C:\Users\Dilbirin\Documents\Visual Studio 2015\Projects\VendingMachine\bin\Debug\VendingMachine.exe.config
